@@ -1,0 +1,5 @@
+com\mycompany\DAO\UsuarioDao.class
+com\mycompany\DAO\ConfigXml.class
+com\mycompany\dominio\Usuario.class
+com\mycompany\DAO\DataSource.class
+com\mycompany\DAO\DAOAbstract.class
